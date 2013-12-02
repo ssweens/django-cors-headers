@@ -22,7 +22,7 @@ setup(
         'Topic :: Software Development :: Libraries :: Application Frameworks',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
-    install_requires=['Django >= 1.4'],
+    install_requires=['Django >= 1.3'],
     tests_require=['mock >= 1.0'],
     test_suite='tests.main',
 )
